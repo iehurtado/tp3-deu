@@ -134,7 +134,11 @@ style: |
 
 ---
 
+<!-- _class: lead -->
+
 # Código Accesible en HTML5, JavaScript y hojas de estilo
+
+---
 
 ## DEU/DCU 2026 - Facultad de Informática - UNLP
 
