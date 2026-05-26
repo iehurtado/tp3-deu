@@ -1,0 +1,25 @@
+{
+  "name": "tp3-deu",
+  "version": "1.0.0",
+  "description": "Presentación TP3 DEU/DCU 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pptx": "marp --pptx --allow-local-files -o dist/presentacion.pptx presentacion.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iehurtado/tp3-deu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iehurtado/tp3-deu/issues"
+  },
+  "homepage": "https://github.com/iehurtado/tp3-deu#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.4.0"
+  }
+}
