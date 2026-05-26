@@ -704,3 +704,12 @@ El video en HTML5 soporta subtitulado nativo para hacer accesibles las pistas de
 <!-- _class: lead -->
 
 # ¡GRACIAS!
+
+---
+
+# Referencias
+
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/What_is_accessibility
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/CSS_and_JavaScript
+- https://www.w3.org/WAI/fundamentals/accessibility-intro/
